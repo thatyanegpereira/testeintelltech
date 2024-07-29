@@ -1,0 +1,26 @@
+{
+    "name": "testeintelltech",
+    "version": "1.0.0",
+    "description": "Repositório da versão 1 do Teste para a Intelltech",
+    "main": "src/index.html",
+    "scripts": {
+        "cy:open": "cypress open",
+        "test": "cypress run"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/thatyanegpereira/testeintelltech.git"
+    },
+    "keywords": [
+        "Testing",
+        "Cypress.io",
+        "Intelltech",
+        "Demo WebShop Shop"
+    ],
+    "author": "Thatyane Guedes <thatyanegpereira@gmail.com>",
+    "license": "MIT",
+    "homepage": "https: //github.com/thatyanegpereira/testeintelltech#readme",
+    "devDependencies": {
+        "faker": "^5.5.3"
+    }
+}
